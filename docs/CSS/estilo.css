@@ -1,0 +1,18 @@
+.cor-azul {
+    background-color: #5DBBDF;
+}
+
+.cor-rosa {
+    background-color: pink;
+}
+
+.cor-roxa{
+    background-color: #924DDF;
+}
+.cor-amarela{
+    background-color: #EFE442 ;
+}
+
+body {
+    transition: background-color 0.5s ease;
+}
